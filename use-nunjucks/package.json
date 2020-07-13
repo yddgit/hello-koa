@@ -1,0 +1,21 @@
+{
+  "name": "use-nunjucks",
+  "version": "1.0.0",
+  "description": "Hello Nunjucks",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "nunjucks"
+  ],
+  "author": "nunjucks",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yddgit/hello-koa.git"
+  },
+  "dependencies": {
+    "nunjucks": "3.2.1"
+  }
+}
