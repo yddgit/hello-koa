@@ -17,6 +17,6 @@
         "url": "https://github.com/yddgit/hello-koa.git"
     },
     "dependencies": {
-        "koa": "2.13.0"
+        "koa": "2.16.1"
     }
 }
